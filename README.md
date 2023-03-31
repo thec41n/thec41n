@@ -21,8 +21,8 @@ Development while exploring the principles of Cyber Security.
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MikhaelEmpi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelEmpi&layout=compact" height=180 />
+    <img alt="MikhaelEmpi Github Stats" src="https://github-readme-stats.vercel.app/api?username=MikhaelEmpi&show_icons=true&theme=dark">
+    <img alt="MikhaelEmpi Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelEmpi&layout=compact&theme=dark">
 </p>
 
 ##### Contact Me:
