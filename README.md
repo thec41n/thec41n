@@ -20,11 +20,14 @@ Development while exploring the principles of Cyber Security.
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p>
-    <img alt="MikhaelEmpi Github Stats" src="https://github-readme-stats.vercel.app/api?username=MikhaelEmpi&show_icons=true&theme=dark">
-    <img alt="MikhaelEmpi Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelEmpi&layout=compact&theme=dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikhaelEmpi&theme=dark"/>
+<p align="center">
+    <a href="https://github.com/MikhaelEmpi"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhaelEmpi&theme=dark"/></a>
+    <a href="https://github.com/MikhaelEmpi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikhaelEmpi&hide_border=true&card_width=338&theme=dark"/></a>
+    <a href="https://github.com/MikhaelEmpi"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhaelEmpi&theme=dark" /></a>
+    <a href="https://github.com/MikhaelEmpi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelEmpi&hide_border=true&layout=compact&theme=dark" /></a>
 </p>
+
+
 
 ##### Contact Me:
 <a href="https://www.linkedin.com/in/devi-mikhael-empi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
