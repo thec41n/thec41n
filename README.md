@@ -24,7 +24,7 @@ Development while exploring the principles of Cyber Security.
     <a href="https://github.com/MikhaelEmpi"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhaelEmpi&theme=dark"/></a>
     <a href="https://github.com/MikhaelEmpi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikhaelEmpi&hide_border=true&card_width=338&theme=dark"/></a>
     <a href="https://github.com/MikhaelEmpi"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhaelEmpi&theme=dark" /></a>
-    <a href="https://github.com/MikhaelEmpi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelEmpi&hide_border=true&layout=compact&theme=dark" /></a>
+    <a href="https://github.com/MikhaelEmpi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelEmpi&hide_border=true&card_width=0&layout=compact&theme=dark" /></a>
 </p>
 
 
