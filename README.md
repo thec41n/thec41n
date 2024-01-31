@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MikhaelEmpi
+# 👋 Hi, I’m Mikhael
 <p> A passionate individual with a strong interest in Web Development and Cyber Security. 
 My journey in these fields began in high school, and ever since, I have been dedicated to mastering the art of Front-End and Back-End Web 
 Development while exploring the principles of Cyber Security. 
